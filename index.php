@@ -1,3 +1,6 @@
+ <div id="main_data">
+    </div>
+ <div id="pages_wrap"></div>
 <script>
     $(function () {
         $().Pagination({
